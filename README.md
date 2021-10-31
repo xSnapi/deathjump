@@ -1,2 +1,2 @@
-# deathjump
- game
+# DEATHJUMP
+ Simple game created in c++ using SFML
